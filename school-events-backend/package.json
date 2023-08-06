@@ -1,0 +1,15 @@
+{
+  "name": "school-events-backend",
+  "version": "1.0.0",
+  "description": "Service to return formatted overview of school events for today, tomorrow, this week, next week",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katsiaryna Mikita",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^123.0.0",
+    "moment": "^2.29.4"
+  }
+}
